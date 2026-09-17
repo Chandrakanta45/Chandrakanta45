@@ -2,9 +2,9 @@
   <img src="Black and Orange Modern Content Creation LinkedIn Banner.png" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Chandrakanta Parida</h1>
-🎯 A passionate *Data Scientist & Machine Learning Enthusiast* from India  
+🎯 A passionate *Data Analyst* from India  
 
-💡 I enjoy turning data into meaningful insights using *Python, Machine Learning, and Deep Learning*  
+💡 I enjoy turning data into meaningful insights using *Python, and Deep Learning*  
 📊 Skilled in *Data Analytics, Visualization, and Predictive Modeling*  
 📍 Location: India  
 📫 Reach me at: chandrakantaparida2006@gmail.com  
