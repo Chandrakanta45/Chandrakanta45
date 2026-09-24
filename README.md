@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=ChandrakantaParida&show_icons=true&theme=tokyonight)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChandrakantaParida&theme=tokyonight)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandrakantaParida&layout=compact&theme=tokyonight)
